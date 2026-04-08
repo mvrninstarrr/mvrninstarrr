@@ -19,6 +19,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=if05orcfs4oqjxr1s51on3v9j&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=if05orcfs4oqjxr1s51on3v9j&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=91273c&bar_color_cover=false">
+  </a>
+</p>
+
 
 
 <p align="center">
