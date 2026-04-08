@@ -1,7 +1,7 @@
 <h1 align="center">𝒞𝒜𝒮𝐸𝐹𝐼𝐿𝐸: 𝒟𝒜𝑅𝐸𝒟𝐸𝒱𝐼𝐿</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=ᴛʜᴇ+ᴍᴀɴ+ᴡɪᴛʜᴏᴜᴛ+ꜰᴇᴀʀ;ᴅᴇᴠɪʟ+ᴏꜰ+ʜᴇʟʟꜱ+ᴋɪᴛᴄʜᴇɴ">
-</p>
+
 
 ---
 
@@ -9,10 +9,9 @@
   <img src="https://img.shields.io/badge/ɴᴀᴍᴇ:-ᴍᴀᴛᴛ/ʟᴜᴄɪ-8B0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/ᴀɢᴇ:-ᴀᴅᴜʟᴛ-8B0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/ᴘʀᴏɴᴏᴜɴꜱ:-ʜᴇ/ᴛʜᴇᴍ-8B0000?style=for-the-badge">
-</p>
-
+  
 <p align="center">
-  <a href="https://www.patreon.com/c/mvrninstar/about">
+ <a href="https://www.patreon.com/c/mvrninstar/about">
     <img src="https://img.shields.io/badge/My Patreon-8B0000?style=flat&logo=patreon&logoColor=white">
   </a>
 </p>
