@@ -1,6 +1,6 @@
-<h1 align="center">𝓜𝓤𝓡𝓓𝓞𝓒𝓚</h1>
+<h1 align="center">𝒞𝒜𝒮𝐸𝐹𝐼𝐿𝐸: 𝒟𝒜𝑅𝐸𝒟𝐸𝒱𝐼𝐿</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=ᴛʜᴇ+ᴍᴀɴ+ᴡɪᴛʜᴏᴜᴛ+ꜰᴇᴀʀ;ᴅᴇᴠɪʟ+ᴏꜰ+ʜᴇʟʟꜱ+ᴋɪᴛᴄʜᴇɴ;ᴅᴀʀᴇᴅᴇᴠɪʟ">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=ᴛʜᴇ+ᴍᴀɴ+ᴡɪᴛʜᴏᴜᴛ+ꜰᴇᴀʀ;ᴅᴇᴠɪʟ+ᴏꜰ+ʜᴇʟʟꜱ+ᴋɪᴛᴄʜᴇɴ">
 </p>
 
 ---
