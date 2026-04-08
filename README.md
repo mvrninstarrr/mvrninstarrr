@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ɴᴀᴍᴇ-ᴍᴀᴛᴛ/ʟᴜᴄɪ-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ᴀɢᴇ-ᴀᴅᴜʟᴛ-8B0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ᴘʀᴏɴᴏᴜɴꜱ-ʜᴇ/ᴛʜᴇᴍ-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ɴᴀᴍᴇ:-ᴍᴀᴛᴛ/ʟᴜᴄɪ-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ᴀɢᴇ:-ᴀᴅᴜʟᴛ-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ᴘʀᴏɴᴏᴜɴꜱ:-ʜᴇ/ᴛʜᴇᴍ-8B0000?style=for-the-badge">
 </p>
 
 <p align="center">
