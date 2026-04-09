@@ -21,19 +21,20 @@
 
 
 
-![games / fandoms](https://img.shields.io/badge/games%20%2F%20fandoms-8B0000?style=flat-square)
- 
-  roblox • fortnite • dead by daylight • outlast trials • resident evil • phasmophobia • fnaf • gotham knights • rdr2 • mha ultra rumble  
+![games / fandoms;](https://img.shields.io/badge/games%20%2F%20fandoms-8B0000?style=flat-square)
+
+ ʀᴏʙʟᴏx • ꜰᴏʀᴛɴɪᴛᴇ • ᴅᴇᴀᴅ ʙʏ ᴅᴀʏʟɪɢʜᴛ • ᴏᴜᴛʟᴀꜱᴛ ᴛʀɪᴀʟꜱ • ʀᴇꜱɪᴅᴇɴᴛ ᴇᴠɪʟ • ᴘʜᴀꜱᴍᴏᴘʜᴏʙɪᴀ • ꜰɴᴀꜰ • ɢᴏᴛʜᴀᴍ ᴋɴɪɢʜᴛꜱ • ʀᴅʀ2 • ᴍʜᴀ ᴜʟᴛʀᴀ ʀᴜᴍʙʟᴇ 
 
 
-  ![movies / shows](https://img.shields.io/badge/movies%20%2F%20shows-8B0000?style=flat-square)
+  ![movies / shows;](https://img.shields.io/badge/movies%20%2F%20shows-8B0000?style=flat-square)
 
-daredevil • the punisher • the defenders • lucifer • marvel / mcu • dc / dcu  tell me lies • rush • dead boy detectives • resident evil • alien • IT • halloween • friday the 13th  white collar • justified • fellow travelers • mha • jjk  
+ᴅᴀʀᴇᴅᴇᴠɪʟ • ᴛʜᴇ ᴘᴜɴɪꜱʜᴇʀ • ᴛʜᴇ ᴅᴇꜰᴇɴᴅᴇʀꜱ • ʟᴜᴄɪꜰᴇʀ • ᴍᴀʀᴠᴇʟ / ᴍᴄᴜ • ᴅᴄ / ᴅᴄᴜ  ᴛᴇʟʟ ᴍᴇ ʟɪᴇꜱ • ʀᴜꜱʜ • ᴅᴇᴀᴅ ʙᴏʏ ᴅᴇᴛᴇᴄᴛɪᴠᴇꜱ • ʀᴇꜱɪᴅᴇɴᴛ ᴇᴠɪʟ • ᴀʟɪᴇɴ • ɪᴛ • ʜᴀʟʟᴏᴡᴇᴇɴ • ꜰʀɪᴅᴀʏ ᴛʜᴇ 13ᴛʜ  ᴡʜɪᴛᴇ ᴄᴏʟʟᴀʀ • ᴊᴜꜱᴛɪꜰɪᴇᴅ • ꜰᴇʟʟᴏᴡ ᴛʀᴀᴠᴇʟᴇʀꜱ • ᴍʜᴀ • ᴊᴊᴋ
 
 
-![hobbies](https://img.shields.io/badge/hobbies-8B0000?style=flat-square)  
-casual artist • casual writer • also makes character playlists + headcanons
+![hobbies;](https://img.shields.io/badge/hobbies-8B0000?style=flat-square)  
+ᴄᴀꜱᴜᴀʟ ᴀʀᴛɪꜱᴛ • ᴄᴀꜱᴜᴀʟ ᴡʀɪᴛᴇʀ • ᴀʟꜱᴏ ᴍᴀᴋᴇꜱ ᴄʜᴀʀᴀᴄᴛᴇʀ ᴘʟᴀʏʟɪꜱᴛꜱ + ʜᴇᴀᴅᴄᴀɴᴏɴꜱ
 
+---
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=if05orcfs4oqjxr1s51on3v9j&redirect=true">
