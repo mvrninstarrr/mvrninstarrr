@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mvrninstarrr&label=Lives+Saved&color=8B0000&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=mvrninstarrr&label=Lives%20Saved&color=8B0000&style=for-the-badge">
 </p>
